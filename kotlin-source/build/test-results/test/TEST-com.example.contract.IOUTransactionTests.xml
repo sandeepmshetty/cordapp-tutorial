@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.contract.IOUTransactionTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-09-26T18:31:45" hostname="VAIO" time="0.231">
+  <properties/>
+  <testcase name="cannot create negative-value IOUs" classname="com.example.contract.IOUTransactionTests" time="0.091"/>
+  <testcase name="transaction must have one output" classname="com.example.contract.IOUTransactionTests" time="0.019"/>
+  <testcase name="recipient must sign transaction" classname="com.example.contract.IOUTransactionTests" time="0.012"/>
+  <testcase name="transaction must have no inputs" classname="com.example.contract.IOUTransactionTests" time="0.046"/>
+  <testcase name="transaction must include Create command" classname="com.example.contract.IOUTransactionTests" time="0.021"/>
+  <testcase name="sender is not recipient" classname="com.example.contract.IOUTransactionTests" time="0.015"/>
+  <testcase name="sender must sign transaction" classname="com.example.contract.IOUTransactionTests" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
