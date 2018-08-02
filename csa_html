@@ -1,0 +1,1903 @@
+<p><code><img style="float: right;" 
+src="images/glyph-tinymce@2x.png" alt="TinyMCE" height="150" 
+/></code></p>
+<p style="margin: 0in 0in 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">(Bilateral Form) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span><span style="color: #000000;">(ISDA Agreements Subject to New 
+York Law Only) 
+</span></span></strong></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 9pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 9pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1.5in; text-indent: 
+0.5in;">&nbsp;</p>
+<p style="margin: 0in 0in 0pt 1in; 
+text-indent: 0.5in;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 9pt;"><span style="color: 
+#000000;">International Swaps and Derivatives Association, Inc. 
+</span></span></code></p>
+<p style="margin: 0in 
+0in 0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 21pt;"><span style="color: 
+#000000;">&nbsp;</span></span></strong></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><strong><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 21pt;"><span 
+style="color: #000000;">2018 CREDIT SUPPORT ANNEX FOR VARIATION MARGIN (VM) 
+</span></span></strong></code></p>
+<p 
+style="margin: 0in 0in 0pt 1.5in; text-indent: 0.5in;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 9.5pt;"><span 
+style="color: #000000;">dated as of <span style="background: 
+yellow;">07/02/2017</span></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1.5in; text-indent: 0.5in;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 9.5pt;"><span 
+style="color: #000000;">to the Schedule to the 
+</span></span></code></p>
+<p style="margin: 0in 
+0in 0pt 1.5in; text-indent: 0.5in;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 9.5pt;"><span style="color: 
+#000000;">ISDA Master 
+Agreement</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1.5in; text-indent: 0.5in;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 9.5pt;"><span 
+style="color: #000000;">dated as of <span style="background: 
+yellow;">02/06/2011</span></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1.5in; text-indent: 0.5in;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 9.5pt;"><span 
+style="color: #000000;">between 
+</span></span></code></p>
+<p style="margin: 0in 
+0in 0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="background: yellow; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: #000000;">BARCLAYS BANK PLC</span></span><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: 
+#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span><span style="color: #000000;">and</span><span 
+style="color: 
+#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<span style="background: yellow;">BRASS No. I 
+PLC</span></span> </span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">(&ldquo;Party 
+A&rdquo;)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span><span style="color: #000000;">(&ldquo;Party B&rdquo;) 
+</span></span></code></p>
+<p style="margin: 0in 
+0in 0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">This Annex supplements, forms part of, and is subject to, the 
+above-referenced Agreement, is part of its Schedule and is a Credit Support 
+Document under this Agreement with respect to each 
+party.</span></span></code></p>
+<p style="margin: 
+0in 0in 0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">Accordingly, the parties agree as follows: &mdash; 
+</span></span></code></p>
+<p style="margin: 0in 
+0in 0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><strong><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: #000000;">Paragraph 1. Interpretation 
+</span></span></strong></code></p>
+<ol 
+style="list-style-type: lower-alpha; direction: ltr;">
+<li 
+style="font-style: normal; font-weight: 
+normal;"><code><strong><em><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;">Definitions and 
+Inconsistency</span></em></strong><strong><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;">. 
+</span></strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">Capitalized terms not otherwise defined 
+herein or elsewhere in this Agreement have the meanings specified pursuant to 
+Paragraph 12, and all references in this Annex to Paragraphs are to Paragraphs 
+of this Annex. In the event of any inconsistency between this Annex and the 
+other provisions of this Schedule, this Annex will prevail, and in the event of 
+any inconsistency between Paragraph 13 and the other provisions of this Annex, 
+Paragraph 13 will prevail.</span></code></li>
+<li 
+style="color: black; font-family: 'Bookman Old Style','serif'; font-size: 12pt; 
+font-style: normal; font-weight: 
+normal;"><code><strong><em><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;">Secured Party and 
+Pledgor</span></em></strong><strong><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;">. 
+</span></strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">All references in this Annex to the 
+&ldquo;Secured Party&rdquo; will be to either party when acting in that 
+capacity and all corresponding references to the &ldquo;Pledgor&rdquo; 
+will be to the other party when acting in that capacity; 
+<em>provided</em>, <em>however</em>, that if Other 
+Posted Support (VM) is held by a party to this Annex, all references herein to 
+that party as the Secured Party with respect to that Other Posted Support (VM) 
+will be to that party as the beneficiary thereof and will not subject that 
+support or that party as the beneficiary thereof to provisions of law generally 
+relating to security interests and secured 
+parties.</span></code></li>
+<li style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal;">
+<p style="color: black; font-family: 'Times New 
+Roman','serif'; font-size: 12pt; font-style: normal; font-weight: normal; 
+margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><em><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;">Scope of this Annex and the 
+Other CSA</span></em></strong><strong><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;">. 
+</span></strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">The only Transactions which will be 
+relevant for the purposes of determining &ldquo;Exposure&rdquo; under 
+this Annex will be the Covered Transactions specified in Paragraph 13. Each 
+Other CSA, if any, is hereby amended such that the Transactions that will be 
+relevant for purposes of determining &ldquo;Exposure&rdquo; thereunder, 
+if any, will exclude the Covered Transactions. Except as provided in Paragraphs 
+8(a), 8(b) and 11(j), nothing in this Annex will affect the rights and 
+obligations, if any, of either party with respect to &ldquo;independent 
+amounts&rdquo; or initial margin under each Other CSA, if any, with respect 
+to Transactions that are Covered 
+Transactions.</span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">Paragraph 2. Security Interest 
+</span></strong></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">Each party, as the Pledgor, hereby pledges to the other 
+party, as the Secured Party, as security for its Obligations, and grants to the 
+Secured Party a first priority continuing security interest in, lien on and 
+right of Set-off against all Posted Collateral (VM) Transferred to or received 
+by the Secured Party hereunder. Upon the Transfer by the Secured Party to the 
+Pledgor of Posted Collateral (VM), the security interest and lien granted 
+hereunder on that Posted Collateral (VM) will be released immediately and, to 
+the extent possible, without any further action by either 
+party.</span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">Paragraph 3. Credit Support Obligations 
+</span></strong></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">(a) <strong><em>Delivery Amount 
+(VM)</em>. </strong>Subject to Paragraphs 4 and 5, upon a demand 
+made by the Secured Party on or promptly following a Valuation Date, if the 
+Delivery Amount (VM) for that Valuation Date equals or exceeds the 
+Pledgor&rsquo;s Minimum Transfer Amount, then the Pledgor will Transfer to 
+the Secured Party Eligible Credit Support (VM) having a Value as of the date of 
+Transfer at least equal to the applicable Delivery Amount (VM) (rounded pursuant 
+to Paragraph 13). Unless otherwise specified in Paragraph 13, the 
+&ldquo;<strong><em>Delivery Amount 
+(VM)</em></strong>&rdquo; applicable to the Pledgor for any 
+Valuation Date will equal the amount by which: 
+</span></code></p>
+<p style="color: black; font-family: 
+'Times New Roman','serif'; font-size: 12pt; font-style: normal; font-weight: 
+normal; margin-top: 0in; margin-bottom: 0pt;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;">(i) the 
+Secured Party&rsquo;s Exposure exceeds 
+</span></code></p>
+<p style="color: black; font-family: 
+'Times New Roman','serif'; font-size: 12pt; font-style: normal; font-weight: 
+normal; margin-top: 0in; margin-bottom: 0pt;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;">(ii) the 
+Value as of that Valuation Date of all Posted Credit Support (VM) held by the 
+Secured Party. </span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">(b) <strong><em>Return Amount (VM)</em>. 
+</strong>Subject to Paragraphs 4 and 5, upon a demand made by the Pledgor 
+on or promptly following a Valuation Date, if the Return Amount (VM) for that 
+Valuation Date equals or exceeds the Secured Party&rsquo;s Minimum Transfer 
+Amount, then the Secured Party will Transfer to the Pledgor Posted Credit 
+Support (VM) specified by the Pledgor in that demand having a Value as of the 
+date of Transfer as close as practicable to the applicable Return Amount (VM) 
+(rounded pursuant to Paragraph 13). Unless otherwise specified in Paragraph 13, 
+the &ldquo;<strong><em>Return 
+Amount</em></strong>&rdquo; applicable to the Secured Party for 
+any Valuation Date will equal the amount by which: 
+</span></code></p>
+<p style="color: black; font-family: 
+'Times New Roman','serif'; font-size: 12pt; font-style: normal; font-weight: 
+normal; margin-top: 0in; margin-bottom: 0pt;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;">(i) the 
+Value as of that Valuation Date of all Posted Credit Support (VM) held by the 
+Secured Party exceeds </span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">(ii) the Secured Party&rsquo;s Exposure. 
+</span></code></p>
+<p style="color: black; font-family: 
+'Times New Roman','serif'; font-size: 12pt; font-style: normal; font-weight: 
+normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">Paragraph 4. Conditions Precedent, Transfer 
+Timing, Calculations and Substitutions 
+</span></strong></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">(a) <strong><em>Conditions 
+Precedent</em>. </strong>Unless otherwise specified in Paragraph 13, 
+each Transfer obligation of the Pledgor under Paragraphs 3, 5 and 6(d) and of 
+the Secured Party under Paragraphs 3, 4(d)(ii), 5, 6(d) and 11(h) is subject to 
+the conditions precedent that: </span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">(i) no Event of Default, Potential Event of Default or 
+Specified Condition has occurred and is continuing with respect to the other 
+party; and </span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">(ii) no Early Termination Date for which any unsatisfied 
+payment obligations exist has occurred or been designated as the result of an 
+Event of Default or Specified Condition with respect to the other party. 
+</span></code></p>
+<p style="color: black; font-family: 
+'Times New Roman','serif'; font-size: 12pt; font-style: normal; font-weight: 
+normal; margin-top: 0in; margin-bottom: 0pt;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">(b) <strong><em>Transfer Timing</em>. 
+</strong>Subject to Paragraphs 4(a) and 5 and unless otherwise specified 
+in Paragraph 13, if a demand for the Transfer of Eligible Credit Support (VM) or 
+Posted Credit Support (VM) is made by the Notification Time, then the relevant 
+Transfer will be made not later than the close of business on the Regular 
+Settlement Day; if a demand is made after the Notification Time, then the 
+relevant Transfer will be made not later than the close of business on the next 
+Local Business Day following the Regular Settlement 
+Day.</span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">(c) <strong><em>Calculations</em>. 
+</strong>All calculations of Value and Exposure for purposes of Paragraphs 
+3 and 6(d) will be made by the Valuation Agent as of the Valuation Time; 
+<em>provided </em>that the Valuation Agent may use, in the case of 
+any calculation of </span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">(i) Value, Values most recently reasonably available for 
+close of business in the relevant market for the relevant Eligible Credit 
+Support (VM) as of the Valuation Time and 
+</span></code></p>
+<p style="color: black; font-family: 
+'Times New Roman','serif'; font-size: 12pt; font-style: normal; font-weight: 
+normal; margin-top: 0in; margin-bottom: 0pt;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;">(ii) 
+Exposure, relevant information or data most recently reasonably available for 
+close of business in the relevant market(s) as of the Valuation Time. 
+</span></code></p>
+<p style="color: black; font-family: 
+'Times New Roman','serif'; font-size: 12pt; font-style: normal; font-weight: 
+normal; margin-top: 0in; margin-bottom: 0pt;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;">The 
+Valuation Agent will notify each party (or the other party, if the Valuation 
+Agent is a party) of its calculations not later than the Notification Time on 
+the Local Business Day following the applicable Valuation Date (or in the case 
+of Paragraph 6(d), following the date of 
+calculation).</span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">(d) <strong><em>Substitutions</em>. 
+</strong></span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">(i) Unless otherwise specified in Paragraph 13, upon notice 
+to the Secured Party specifying the items of Posted Credit Support (VM) to be 
+exchanged, the Pledgor may, on any Local Business Day, Transfer to the Secured 
+Party substitute Eligible Credit Support (VM) (the 
+&ldquo;<strong><em>Substitute Credit Support 
+(VM)</em></strong>&rdquo;); and 
+</span></code></p>
+<p style="color: black; font-family: 
+'Times New Roman','serif'; font-size: 12pt; font-style: normal; font-weight: 
+normal; margin-top: 0in; margin-bottom: 0pt;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;">(ii) 
+subject to Paragraph 4(a), the Secured Party will Transfer to the Pledgor the 
+items of Posted Credit Support (VM) specified by the Pledgor in its notice not 
+later than the Local Business Day following the date on which the Secured Party 
+receives the Substitute Credit Support (VM), unless otherwise specified in 
+Paragraph 13 (the &ldquo;<strong><em>Substitution 
+Date</em></strong>&rdquo;); <em>provided </em>that 
+the Secured Party will only be obligated to Transfer Posted Credit Support (VM) 
+with a Value as of the date of Transfer of that Posted Credit Support (VM) equal 
+to the Value as of that date of the Substitute Credit Support 
+(VM).</span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">Paragraph 5. Dispute 
+Resolution</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&hellip;&hellip;&hellip;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">Paragraph 6. Holding and Using Posted 
+Collateral (VM)</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&hellip;&hellip;&hellip;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">Paragraph 7. Events of 
+Default</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&hellip;&hellip;&hellip;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">Paragraph 8. Certain Rights and 
+Remedies</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&hellip;&hellip;&hellip;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">.</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">.</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">.</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">.</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">.</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">.</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">Paragraph 12. 
+Definitions</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">As used in this Annex: &mdash; 
+</span></code></p>
+<p style="color: black; font-family: 
+'Times New Roman','serif'; font-size: 12pt; font-style: normal; font-weight: 
+normal; margin-top: 0in; margin-bottom: 0pt;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&ldquo;<strong><em>Base 
+Currency</em></strong>&rdquo; means the currency specified as 
+such in Paragraph 13.</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&ldquo;<strong><em>Delivery Amount 
+(VM)</em></strong>&rdquo; has the meaning specified in Paragraph 
+3(a).</span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&ldquo;<strong><em>Eligible Collateral 
+(VM)</em></strong>&rdquo; has the meaning specified in Paragraph 
+13. </span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&ldquo;<strong><em>Eligible 
+Currency</em></strong>&rdquo; means each currency specified as 
+such in Paragraph 13, if such currency is freely 
+available.</span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&ldquo;<strong><em>Minimum Transfer 
+Amount</em></strong>&rdquo; means, with respect to a party, the 
+amount specified as such for that party in Paragraph 13; if no amount is 
+specified, zero. </span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&ldquo;<strong><em>Notification 
+Time</em></strong>&rdquo; has the meaning specified in Paragraph 
+13.</span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&ldquo;<strong><em>Return Amount 
+(VM)</em></strong>&rdquo; has the meaning specified in Paragraph 
+3(b).</span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&ldquo;<strong><em>Specified 
+Condition</em></strong>&rdquo; means, with respect to a party, 
+any event specified as such for that party in Paragraph 
+13.</span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><strong><em><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;">&ldquo;Substitution 
+Date</span></em></strong><span style="font-family: 'Bookman 
+Old Style','serif'; font-size: 10pt;">&rdquo; has the meaning specified 
+in Paragraph 4(d)(ii).</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&ldquo;<strong><em>Valuation 
+Agent</em></strong>&rdquo; has the meaning specified in 
+Paragraph 13. </span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&ldquo;<strong><em>Valuation 
+Date</em></strong>&rdquo; means, unless otherwise specified in 
+Paragraph 13, each day from, and including, the date of this Annex, that is a 
+day on which commercial banks are open for business (including dealings in 
+foreign exchange and foreign currency deposits) in at least one Valuation Date 
+Location for Party A and at least one Valuation Date Location for Party B. 
+</span></code></p>
+<p style="color: black; font-family: 
+'Times New Roman','serif'; font-size: 12pt; font-style: normal; font-weight: 
+normal; margin-top: 0in; margin-bottom: 0pt;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;">&ldquo;<strong><em>Valuation 
+Time</em></strong>&rdquo; means, unless otherwise specified in 
+Paragraph 13, the time as of which the Valuation Agent computes its end of day 
+valuations of derivatives transactions in the ordinary course of its business 
+(or such other commercially reasonable convenient time on the relevant day as 
+the Valuation Agent may determine).</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif';">&nbsp;</span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 0pt; 
+page-break-before: always;"><code><strong><span style="color: 
+windowtext; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Paragraph 13. Elections and Variables 
+</span></strong></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="color: windowtext; font-family: 'Bookman 
+Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="color: windowtext; font-family: 'Bookman 
+Old Style','serif'; font-size: 10pt;">(a) <strong><em>Base 
+Currency and Eligible Currency. 
+</em></strong></span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="color: windowtext; font-family: 'Bookman 
+Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="color: windowtext; font-family: 'Bookman 
+Old Style','serif'; font-size: 10pt;">(i) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&ldquo;<strong><em>Base 
+Currency</em></strong>&rdquo; means United States Dollars, 
+unless otherwise specified here: </span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="background: yellow; color: windowtext; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;">U.S. 
+Dollar</span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="color: windowtext; font-family: 'Bookman 
+Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="color: 
+black; font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: 
+normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="color: windowtext; font-family: 'Bookman 
+Old Style','serif'; font-size: 10pt;">(ii) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&ldquo;<strong><em>Eligible 
+Currency</em></strong>&rdquo; means the Base Currency and each 
+other currency specified here: </span></code></p>
+<p 
+style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt; 
+font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="background: yellow; color: windowtext; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;">EURO, 
+GBP</span></code></p>
+<p style="color: black; 
+font-family: 'Times New Roman','serif'; font-size: 12pt; font-style: normal; 
+font-weight: normal; margin-top: 0in; margin-bottom: 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 
+10pt;">&nbsp;</span></code></p>
+</li>
+</ol>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">(c) <strong><em>Credit Support Obligations</em>. 
+</strong></span></code></p>
+<p style="margin: 0in 
+0in 0pt; line-height: normal;"><code><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal; text-indent: 0.5in;"><code><span 
+style="color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">(i) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<strong><em>Delivery Amount (VM) and Return Amount (VM)</em>. 
+</strong></span></code></p>
+<p style="margin: 0in 
+0in 0pt; line-height: normal; text-indent: 0.5in;"><code><span 
+style="color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt 1.5in; line-height: normal; text-indent: 
+-0.5in;"><code><span style="color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">(A) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&ldquo;<strong><em>Delivery Amount 
+(VM)</em></strong>&rdquo; has the meaning specified in Paragraph 
+3(a), unless otherwise specified here: <span style="background: 
+yellow;">N/A</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1.5in; line-height: normal; text-indent: 
+-0.5in;"><code><span style="color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">(B) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&ldquo;<strong><em>Return Amount 
+(VM)</em></strong>&rdquo; has the meaning specified in Paragraph 
+3(b), unless otherwise specified here: <span style="background: 
+yellow;">N/A</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1in; line-height: normal;"><code><span 
+style="color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt 1in; line-height: normal; text-indent: 
+-0.5in;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: #000000;">ii) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<strong><em>Eligible Collateral 
+(VM)</em></strong></span><span style="color: #000000;">. 
+Subject to Paragraph 11(g), if applicable, and each Credit Support Eligibility 
+Condition (VM) applicable to it specified in Paragraph 13, if any, the following 
+items will qualify as &ldquo;</span><strong><em><span 
+style="color: #000000;">Eligible Collateral 
+(VM)</span></em></strong><span style="color: 
+#000000;">&rdquo; for the party specified (as the 
+Pledgor):</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal; text-indent: 
+0.5in;"><code><span style="color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<table 
+style="margin: auto auto auto 76.45pt; width: 392.1pt; border-collapse: 
+collapse;" border="0" width="523" cellspacing="0" 
+cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0in 
+5.4pt; border: #000000; width: 121.25pt; background-color: transparent;" 
+valign="top" width="162">
+<p style="margin: 0in 0in 0pt; line-height: 
+normal;"><code><strong><span style="color: black; font-family: 
+'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+</td>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 49.5pt; background-color: 
+transparent;" valign="top" width="66">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><strong><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;">Party 
+A</span></strong></code></p>
+</td>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 84.05pt; background-color: 
+transparent;" valign="top" width="112">
+<p style="margin: 0in 0in 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;"><span style="color: #000000;">Valuation Percentage 
+</span></span></code></p>
+</td>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 46.7pt; background-color: 
+transparent;" valign="top" width="62">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><strong><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;">Party 
+B</span></strong></code></p>
+</td>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 90.6pt; background-color: 
+transparent;" valign="top" width="121">
+<p style="margin: 0in 0in 
+0pt;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;"><span style="color: #000000;">Valuation Percentage 
+</span></span></code></p>
+</td>
+</tr>
+<tr 
+style="height: 25.15pt;">
+<td style="background: #f2f2f2; padding: 0in 
+5.4pt; border: #000000; width: 121.25pt; height: 25.15pt;" valign="top" 
+width="162">
+<p style="margin: 0in 0in 0pt 0.5in; text-indent: 
+-0.25in;"><code><span style="color: 
+#000000;"><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">A)<span style="font: 7pt/normal 'Times 
+New Roman'; font-size-adjust: none; font-stretch: 
+normal;">&nbsp;&nbsp;&nbsp; 
+</span></span></strong><strong><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;">cash in an 
+Eligible Currency other: 
+</span></strong></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: 
+normal;"><code><strong><span style="color: black; font-family: 
+'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+</td>
+<td 
+style="background: #f2f2f2; padding: 0in 5.4pt; border: #000000; width: 49.5pt; 
+height: 25.15pt;" valign="top" width="66">
+<p style="margin: 0in 0in 
+0pt; line-height: normal;"><code><span style="background: yellow; 
+color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Y/N</span></code></p>
+</td>
+<td 
+style="background: #f2f2f2; padding: 0in 5.4pt; border: #000000; width: 84.05pt; 
+height: 25.15pt;" valign="top" width="112">
+<p style="margin: 0in 0in 
+0pt; line-height: normal;"><code><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;">100 
+%</span></code></p>
+</td>
+<td 
+style="background: #f2f2f2; padding: 0in 5.4pt; border: #000000; width: 46.7pt; 
+height: 25.15pt;" valign="top" width="62">
+<p style="margin: 0in 0in 
+0pt; line-height: normal;"><code><span style="background: yellow; 
+color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Y/N</span></code></p>
+</td>
+<td 
+style="background: #f2f2f2; padding: 0in 5.4pt; border: #000000; width: 90.6pt; 
+height: 25.15pt;" valign="top" width="121">
+<p style="margin: 0in 0in 
+0pt; line-height: normal;"><code><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;">100 
+%</span></code></p>
+</td>
+</tr>
+<tr>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 121.25pt; background-color: 
+transparent;" valign="top" width="162">
+<p style="margin: 0in 0in 0pt 
+0.5in; text-indent: -0.25in;"><code><span style="color: 
+#000000;"><strong><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;">B)<span style="font: 7pt/normal 'Times 
+New Roman'; font-size-adjust: none; font-stretch: 
+normal;">&nbsp;&nbsp;&nbsp; 
+</span></span></strong><strong><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;">Residual 
+maturity less than 
+one-year</span></strong></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: 
+normal;"><code><strong><span style="color: black; font-family: 
+'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+</td>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 49.5pt; background-color: 
+transparent;" valign="top" width="66">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><span style="background: yellow; color: 
+black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Y/N</span></code></p>
+</td>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 84.05pt; background-color: 
+transparent;" valign="top" width="112">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><span style="color: black; font-family: 
+'Bookman Old Style','serif'; font-size: 
+10pt;">99.5%</span></code></p>
+</td>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 46.7pt; background-color: 
+transparent;" valign="top" width="62">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><span style="background: yellow; color: 
+black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Y/N</span></code></p>
+</td>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 90.6pt; background-color: 
+transparent;" valign="top" width="121">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><span style="color: black; font-family: 
+'Bookman Old Style','serif'; font-size: 
+10pt;">99.5%</span></code></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal; text-indent: 
+0.5in;"><code><span style="color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; text-indent: 0.5in;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">(iii) 
+<strong><em>Thresholds</em></strong></span> 
+</span></code></p>
+<p style="margin: 0in 0in 0pt; 
+text-indent: 0.5in;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 0.5in; text-indent: 0.5in;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: #000000;">(A) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span><span style="color: 
+#000000;">&ldquo;</span><span style="color: 
+#000000;"><strong><em><span style="background: 
+olive;">Minimum Transfer 
+Amount</span></em></strong><span style="background: 
+olive;">&rdquo; means with respect to Party A: $ 
+100,000</span></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1in; text-indent: 0.5in;"><code><span 
+style="background: olive; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1in; text-indent: 0.5in;"><code><span 
+style="background: olive; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;"><span style="color: 
+#000000;">&ldquo;<strong><em>Minimum Transfer 
+Amount</em></strong></span><span style="color: 
+#000000;">&rdquo; means with respect to Party B: $ 
+100,000</span></span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal; text-indent: 0.5in;"><code><span 
+style="background: olive; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1.5in; line-height: normal; text-indent: 
+-0.5in;"><code><span style="background: olive; font-family: 'Bookman 
+Old Style','serif'; font-size: 10pt;"><span style="color: #000000;">(B) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span><strong><em><span style="color: 
+#000000;">Rounding</span></em><span style="color: 
+#000000;">. </span></strong><span style="color: 
+#000000;">The Delivery Amount (VM) and the Return Amount (VM) will be rounded 
+up and down respectively to the nearest integral multiple of: $ 
+1,000</span></span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal; text-indent: 0.5in;"><code><span 
+style="color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: #000000;">(d) 
+<strong><em>Valuation and Timing. 
+</em></strong></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1in; text-indent: -0.5in;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: #000000;">(i) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span><span style="color: 
+#000000;">&ldquo;</span><strong><em><span 
+style="color: #000000;">Valuation 
+Agent</span></em></strong><span style="color: 
+#000000;">&rdquo; means, for purposes of Paragraphs 3 and 5, the party 
+making the demand under Paragraph 3, and, for purposes of Paragraph 6(d), the 
+Secured Party, as applicable, unless otherwise specified here: 
+</span><span style="background: yellow;"><span style="color: 
+#000000;">N/A</span></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal; text-indent: 
+0.5in;"><code><span style="font-family: 'Bookman Old Style','serif'; 
+font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1in; line-height: normal; text-indent: 
+-0.5in;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: #000000;">(ii) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span><span style="color: 
+#000000;">&ldquo;</span><strong><em><span 
+style="color: #000000;">Valuation 
+Date</span></em></strong><span style="color: 
+#000000;">&rdquo; has the meaning specified in Paragraph 12, unless 
+otherwise specified here: </span><span style="background: 
+yellow;"><span style="color: 
+#000000;">N/A</span></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1in;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">For purposes of determining the Valuation Date and clause (iii) of 
+the definition of &ldquo;Local Business Day&rdquo; in Paragraph 12, 
+&ldquo;<strong><em>Valuation Date 
+Location</em></strong></span><span style="color: 
+#000000;">&rdquo; means, with respect to each party, each city, region, 
+or country specified below: 
+</span></span></code></p>
+<p style="margin: 0in 
+0in 0pt 0.5in; text-indent: 0.5in;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 0.5in; text-indent: 0.5in;"><code><span 
+style="background: olive; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;"><span style="color: #000000;">Party A: New 
+York</span></span></code></p>
+<p style="margin: 
+0in 0in 0pt 0.5in; text-indent: 0.5in;"><code><span 
+style="background: olive; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 0.5in; text-indent: 0.5in;"><code><span 
+style="background: olive; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;"><span style="color: #000000;">Party B: 
+London</span></span></code></p>
+<p style="margin: 
+0in 0in 0pt 0.5in; text-indent: 0.5in;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1in; text-indent: -0.5in;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: #000000;">(iii) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span 
+style="color: 
+#000000;">&ldquo;</span><strong><em><span 
+style="color: #000000;">Valuation 
+Time</span></em></strong><span style="color: 
+#000000;">&rdquo; has the meaning specified in Paragraph 12, unless 
+otherwise specified here: </span><span style="background: 
+yellow;"><span style="color: 
+#000000;">N/A</span></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; text-indent: 0.5in;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1in; line-height: normal; text-indent: 
+-0.5in;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: #000000;">(iv) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span 
+style="color: 
+#000000;">&ldquo;</span><strong><em><span 
+style="color: #000000;">Notification 
+Time</span></em></strong><span style="color: 
+#000000;">&rdquo; means 10:00 a.m., New York time, on a Local Business 
+Day, unless otherwise specified here: </span><span style="background: 
+yellow;"><span style="color: 
+#000000;">N/A</span></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 0.5in; line-height: normal;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">(e) <strong><em>Conditions Precedent and Secured 
+Party&rsquo;s Rights and Remedies. 
+</em></strong></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; text-indent: 0.5in;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: #000000;">(i) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span><span style="color: #000000;">The provisions of Paragraph 
+4(a) will apply, unless otherwise specified here: </span><span 
+style="background: yellow;"><span style="color: 
+#000000;">N/A</span></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 0.5in; line-height: normal;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1in; line-height: normal; text-indent: 
+-0.5in;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: #000000;">(ii) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span><span style="color: #000000;">If the provisions of Paragraph 
+4(a) are applicable, the following Termination Event(s) will be a 
+&ldquo;</span><strong><em><span style="color: 
+#000000;">Specified Condition</span></em></strong><span 
+style="color: #000000;">&rdquo; for the party specified (that party being 
+the Affected Party if the Termination Event occurs with respect to that 
+party):</span></span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal; text-indent: 0.5in;"><code><span 
+style="color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<table 
+style="border-collapse: collapse;" border="0" cellspacing="0" 
+cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0in 
+5.4pt; border: #000000; width: 155.8pt; background-color: transparent;" 
+valign="top" width="208">
+<p style="margin: 0in 0in 0pt; line-height: 
+normal;"><code><strong><span style="color: black; font-family: 
+'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></strong></code></p>
+</td>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 155.85pt; background-color: 
+transparent;" valign="top" width="208">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><strong><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;">Party 
+A</span></strong></code></p>
+</td>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 155.85pt; background-color: 
+transparent;" valign="top" width="208">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><strong><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;">Party 
+B</span></strong></code></p>
+</td>
+</tr>
+<tr>
+<td 
+style="background: #f2f2f2; padding: 0in 5.4pt; border: #000000; width: 
+155.8pt;" valign="top" width="208">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><strong><span style="background: 
+olive; color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Illegality</span></strong></code></p>
+</td>
+<td 
+style="background: #f2f2f2; padding: 0in 5.4pt; border: #000000; width: 
+155.85pt;" valign="top" width="208">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><span style="background: olive; color: 
+black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Y/N</span></code></p>
+</td>
+<td 
+style="background: #f2f2f2; padding: 0in 5.4pt; border: #000000; width: 
+155.85pt;" valign="top" width="208">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><span style="background: olive; color: 
+black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Y/N</span></code></p>
+</td>
+</tr>
+<tr>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 155.8pt; background-color: 
+transparent;" valign="top" width="208">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><strong><span style="background: 
+olive; color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Credit Event Upon 
+Manager</span></strong></code></p>
+</td>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 155.85pt; background-color: 
+transparent;" valign="top" width="208">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><span style="background: olive; color: 
+black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Y/N</span></code></p>
+</td>
+<td 
+style="padding: 0in 5.4pt; border: #000000; width: 155.85pt; background-color: 
+transparent;" valign="top" width="208">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><span style="background: olive; color: 
+black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Y/N</span></code></p>
+</td>
+</tr>
+<tr>
+<td 
+style="background: #f2f2f2; padding: 0in 5.4pt; border: #000000; width: 
+155.8pt;" valign="top" width="208">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><strong><span style="background: 
+olive; color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Additional Termination 
+Event(s)</span></strong></code></p>
+</td>
+<td 
+style="background: #f2f2f2; padding: 0in 5.4pt; border: #000000; width: 
+155.85pt;" valign="top" width="208">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><span style="background: olive; color: 
+black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Y/N</span></code></p>
+</td>
+<td 
+style="background: #f2f2f2; padding: 0in 5.4pt; border: #000000; width: 
+155.85pt;" valign="top" width="208">
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><span style="background: olive; color: 
+black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Y/N</span></code></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal; text-indent: 
+0.5in;"><code><span style="color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal; text-indent: 0.5in;"><code><span 
+style="color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">(</span><span style="background: olive;"><span 
+style="color: #000000;">f) </span><strong><em><span 
+style="color: #000000;">Substitution</span></em><span 
+style="color: #000000;">. 
+</span></strong></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="background: olive; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<ol 
+style="list-style-type: lower-roman; direction: ltr;">
+<li 
+style="font-style: normal; font-weight: normal;"><code><span 
+style="background: olive; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&ldquo;<strong><em>Substitution 
+Date</em></strong>&rdquo; has the meaning specified in Paragraph 
+4(d)(ii), unless otherwise specified here:&nbsp;&nbsp;&nbsp; 5 
+Business Day</span></code></li>
+</ol>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal; text-indent: 
+0.5in;"><code><span style="background: olive; font-family: 'Bookman 
+Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<ol 
+style="list-style-type: lower-roman; direction: ltr;">
+<li 
+style="font-style: normal; font-weight: 
+normal;"><code><strong><em><span style="background: 
+olive; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">Consent</span></em></strong><span 
+style="background: olive; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">. If specified here as applicable, then the Pledgor must obtain the 
+Secured Party&rsquo;s consent for any substitution 
+</span></code></li>
+</ol>
+<p style="margin: 0in 
+0in 0pt 1in; line-height: normal;"><code><span style="background: 
+olive; font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: #000000;">pursuant to Paragraph 4(d): &nbsp; 
+</span><span style="color: #000000;">Not 
+Applicable</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">(g) <strong><em>Distributions and Interest Payment 
+(VM). 
+</em></strong></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1in; line-height: normal; text-indent: 
+-0.5in;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: #000000;">(i) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span><strong><em><span style="color: 
+#000000;">Interest Rate (VM)</span></em><span style="color: 
+#000000;">. </span></strong><span style="color: 
+#000000;">The &ldquo;</span><strong><em><span 
+style="color: #000000;">Interest Rate 
+(VM)</span></em></strong><span style="color: 
+#000000;">&rdquo; in relation to each Eligible Currency specified below 
+will be:</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 1in; line-height: normal; text-indent: 
+-0.5in;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<table 
+style="margin: auto auto auto -0.25pt; border: currentColor; border-collapse: 
+collapse;" border="1" cellspacing="0" 
+cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0in 
+5.4pt; border: 1pt solid windowtext; width: 144.1pt; background-color: 
+transparent;" valign="top" width="192">
+<p style="margin: 0in 0in 
+0pt;"><code><strong><em><span style="background: olive; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: #000000;">Eligible Currency 
+</span></span></em></strong></code></p>
+</td>
+<td 
+style="border-width: 1pt 1pt 1pt 0px; border-style: solid solid solid none; 
+border-color: windowtext windowtext windowtext #000000; padding: 0in 5.4pt; 
+width: 143.3pt; background-color: transparent;" valign="top" 
+width="191">
+<p style="margin: 0in 0in 
+0pt;"><code><strong><em><span style="background: olive; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: #000000;">Interest Rate (VM) 
+</span></span></em></strong></code></p>
+</td>
+<td 
+style="border-width: 1pt 1pt 1pt 0px; border-style: solid solid solid none; 
+border-color: windowtext windowtext windowtext #000000; padding: 0in 5.4pt; 
+width: 144.1pt; background-color: transparent;" valign="top" 
+width="192">
+<p style="margin: 0in 0in 
+0pt;"><code><strong><em><span style="background: olive; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: #000000;">A/365 Currency 
+</span></span></em></strong></code></p>
+</td>
+</tr>
+<tr>
+<td 
+style="border-width: 0px 1pt 1pt; border-style: none solid solid; border-color: 
+#000000 windowtext windowtext; padding: 0in 5.4pt; width: 144.1pt; 
+background-color: transparent;" valign="top" width="192">
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="background: olive; color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">USD</span></code></p>
+</td>
+<td 
+style="border-width: 0px 1pt 1pt 0px; border-style: none solid solid none; 
+border-color: #000000 windowtext windowtext #000000; padding: 0in 5.4pt; width: 
+143.3pt; background-color: transparent;" valign="top" width="191">
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="background: olive; 
+font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: #000000;">Fed Funds 
+</span></span></code></p>
+</td>
+<td 
+style="border-width: 0px 1pt 1pt 0px; border-style: none solid solid none; 
+border-color: #000000 windowtext windowtext #000000; padding: 0in 5.4pt; width: 
+144.1pt; background-color: transparent;" valign="top" width="192">
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="background: olive; color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">360</span></code></p>
+</td>
+</tr>
+<tr>
+<td 
+style="border-width: 0px 1pt 1pt; border-style: none solid solid; border-color: 
+#000000 windowtext windowtext; padding: 0in 5.4pt; width: 144.1pt; 
+background-color: transparent;" valign="top" width="192">
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="background: olive; color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">EURO</span></code></p>
+</td>
+<td 
+style="border-width: 0px 1pt 1pt 0px; border-style: none solid solid none; 
+border-color: #000000 windowtext windowtext #000000; padding: 0in 5.4pt; width: 
+143.3pt; background-color: transparent;" valign="top" width="191">
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="background: olive; color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">Euribor</span></code></p>
+</td>
+<td 
+style="border-width: 0px 1pt 1pt 0px; border-style: none solid solid none; 
+border-color: #000000 windowtext windowtext #000000; padding: 0in 5.4pt; width: 
+144.1pt; background-color: transparent;" valign="top" width="192">
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="background: olive; color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">360</span></code></p>
+</td>
+</tr>
+<tr>
+<td 
+style="border-width: 0px 1pt 1pt; border-style: none solid solid; border-color: 
+#000000 windowtext windowtext; padding: 0in 5.4pt; width: 144.1pt; 
+background-color: transparent;" valign="top" width="192">
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="background: olive; color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">GBP</span></code></p>
+</td>
+<td 
+style="border-width: 0px 1pt 1pt 0px; border-style: none solid solid none; 
+border-color: #000000 windowtext windowtext #000000; padding: 0in 5.4pt; width: 
+143.3pt; background-color: transparent;" valign="top" width="191">
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="background: olive; color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">Libor</span></code></p>
+</td>
+<td 
+style="border-width: 0px 1pt 1pt 0px; border-style: none solid solid none; 
+border-color: #000000 windowtext windowtext #000000; padding: 0in 5.4pt; width: 
+144.1pt; background-color: transparent;" valign="top" width="192">
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="background: olive; color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+10pt;">360</span></code></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p 
+style="margin: 0in 0in 0pt 0.5in; line-height: normal;"><code><span 
+style="color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">(h) <strong><em>Demands and Notices. 
+</em></strong></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt 0.5in;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">All demands, specifications and notices under this Annex will be 
+made pursuant to the Notices Section of this Agreement, unless otherwise 
+specified here: </span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; text-indent: 0.5in;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; text-indent: 0.5in;"><code><span 
+style="background: olive; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;"><span style="color: #000000;">Party A: 745, 7th Ave, New York, 
+NY 10019, USA</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; text-indent: 0.5in;"><code><span 
+style="background: olive; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal; text-indent: 
+0.5in;"><code><span style="background: olive; font-family: 'Bookman 
+Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">Party B: 1 King&rsquo;s Arms Yard, Third Floor, London, EC2R 
+7AF, United Kingdom</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">(i) </span><strong><em><span style="color: 
+#000000;">Addresses for Transfers</span></em><span 
+style="color: #000000;">. 
+</span></strong></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; text-indent: 0.5in;"><code><span 
+style="background: olive; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;"><span style="color: #000000;">Party A: The Collateral Management 
+Team , Central Phone Number: +44 020 7773 
+1018</span></span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span style="background: 
+olive; font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal; text-indent: 
+0.5in;"><code><span style="background: olive; font-family: 'Bookman 
+Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">Party B: Not 
+Available</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="font-family: 'Bookman Old Style','serif'; font-size: 10pt;"><span 
+style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: #000000;">(j) 
+<strong><em>Other CSA</em></strong></span><span 
+style="color: #000000;">. </span><strong><em><span 
+style="color: #000000;">"Other CSA" 
+</span></em></strong><span style="color: #000000;">has 
+the meaning specified in Paragraph 10, unless otherwise specified here: 
+</span></span></code></p>
+<p style="margin: 0in 
+0in 0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;<span 
+style="background: yellow;"> Not Available</span></span><span 
+style="color: 
+#000000;">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; 
+</span></span></code></p>
+<p style="margin: 0in 
+0in 0pt;"><code><span style="font-family: 'Bookman Old 
+Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">&nbsp;</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt;"><code><span style="font-family: 
+'Bookman Old Style','serif'; font-size: 10pt;"><span style="color: 
+#000000;">(k) <strong><em>Other Provisions. 
+</em></strong><span style="background: yellow;">Not 
+Available</span></span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 
+10pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><strong><span 
+style="text-decoration: underline;"><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 16pt;">Signed 
+by:</span></span></strong></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span style="color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span style="background: 
+olive; font-family: 'Bookman Old Style','serif'; font-size: 16pt;"><span 
+style="color: #000000;">BARCLAYS BANK 
+PLC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span></span><span style="background: olive; color: black; 
+font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span><span style="background: olive; font-family: 'Bookman Old 
+Style','serif'; font-size: 16pt;"><span style="color: #000000;">BRASS 
+No. I PLC </span></span><span style="background: olive; color: 
+black; font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.</span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="background: olive; color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+16pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span style="background: 
+olive; color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">(Name of Party 
+A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+(Name of Party B)</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span style="background: 
+olive; color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span style="background: 
+olive; color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&nbsp;</span></code></p>
+<p style="margin: 
+0in 0in 0pt; line-height: normal;"><code><span 
+style="text-decoration: underline;"><span style="background: olive; color: 
+black; font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">By:&nbsp; </span></span><span style="background: 
+olive; color: black; font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<span style="text-decoration: 
+underline;">By:</span></span></code></p>
+<p 
+style="margin: 0in 0in 0pt; line-height: normal;"><code><span 
+style="background: olive; color: black; font-family: 'Bookman Old 
+Style','serif'; font-size: 
+16pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Name:</span></code></p>
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><span style="background: olive; color: 
+black; font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Title:</span></code></p>
+<p style="margin: 0in 0in 0pt; 
+line-height: normal;"><code><span style="background: olive; color: 
+black; font-family: 'Bookman Old Style','serif'; font-size: 
+16pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Date:</span></code></p>
+<h2>&nbsp;</h2>
